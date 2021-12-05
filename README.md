@@ -1,5 +1,5 @@
 # Wifi_Passwords
-This python tool will fetch the wifi passwords from the device and then will email the password to your provided mail id
+This python tool will fetch the wifi passwords from the Windows laptop/pc and then will email the password to your provided mail id
 
 Things to do:
 1. Open the code and add your email id and password in last line
